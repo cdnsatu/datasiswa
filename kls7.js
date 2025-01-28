@@ -1,7 +1,5 @@
         // Simulasi data siswa lebih dari 200 data
         const dataSiswa = [
-            
-        
         { "No": 1, "Nama": "Abdullah Multazam", "JK": "L", "Kelas": "7 A", "NISN": "0000000000", "NIPD": "0000" },
         { "No": 2, "Nama": "Aditiya Dwi Prayoga", "JK": "L", "Kelas": "7 A", "NISN": "0000000000", "NIPD": "0000" },
         { "No": 3, "Nama": "Aditya Surya Darmasaputra", "JK": "L", "Kelas": "7 A", "NISN": "0000000000", "NIPD": "0000" },
@@ -199,7 +197,6 @@
         { "No": 195, "Nama": "Rendytian Firmansyah", "JK": "L", "Kelas": "7 F", "NISN": "0000000000", "NIPD": "0000" },
          { "No": 196, "Nama": "Syafa Ganezha Lubis", "JK": "P", "Kelas": "7 F", "NISN": "0000000000", "NIPD": "0000" },
         { "No": 197, "Nama": "Widyanata Tutut Asari", "JK": "P", "Kelas": "7 F", "NISN": "0000000000", "NIPD": "0000" }
- 
           ];
 
         // Elemen HTML
